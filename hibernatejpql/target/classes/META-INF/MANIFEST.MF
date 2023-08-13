@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: Shree
+Build-Jdk: 19
+Main-Class: com.jspiders.hibernatejpql.hibernatejpql.App
+Created-By: Maven Integration for Eclipse
+
